@@ -1,1 +1,1 @@
-# newversionchecker
+SMUGDEN
